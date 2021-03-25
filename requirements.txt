@@ -74,7 +74,7 @@ python-socketio==2.0.0
 pytz==2018.5
 pywin32==224
 pywinauto==0.6.5
-PyYAML==3.13
+PyYAML==5.4
 queuelib==1.5.0
 requests==2.19.1
 rsa==3.4.2
