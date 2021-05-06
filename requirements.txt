@@ -26,7 +26,7 @@ Cython==0.29
 DateTime==4.2
 docutils==0.14
 Flask==0.10.1
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-SocketIO==3.0.2
 gunicorn==19.3.0
 html2text==2018.1.9
